@@ -19,7 +19,6 @@ dnf install \
   gnome-terminal-nautilus \
   gvfs-mtp \
   qbittorrent \
-  vlc \
   evince \
   cups \
   foomatic \
