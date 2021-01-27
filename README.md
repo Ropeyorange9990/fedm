@@ -1,0 +1,2 @@
+# fedm
+Minimal Fedora install
